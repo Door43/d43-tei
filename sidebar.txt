@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tei:home|Door43 (tei)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tei|d43-tei repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tei/archive/master.zip|d43-tei.zip]]
+
+**Recent Changes**
+{{changes>ns = tei}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tei|Ethnologue data]]
+
